@@ -3,6 +3,6 @@ Este modelo tem como objetivo prever o tempo total de uma corrida de taxi na cid
 
 Para poder executar o projeto siga os passos abaixo: 
 
-1 - Acesse https://www.kaggle.com/c/nyc-taxi-trip-duration e faça o download da base.
-2 - Descompacte o arquivo.
-3 - Mova os arquivos para a pasta onde o notebook está salvo.
+<p>1 - Acesse https://www.kaggle.com/c/nyc-taxi-trip-duration e faça o download da base.</p>
+<p>2 - Descompacte o arquivo.</p>
+<p>3 - Mova os arquivos para a pasta onde o notebook está salvo.</p>
